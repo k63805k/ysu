@@ -1,0 +1,21 @@
+{
+  "name": "new_for_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon run dev",
+    "prod": "nodemon run prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.7",
+    "path": "^0.12.7"
+  }
+}
